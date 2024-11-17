@@ -1,0 +1,33 @@
+1. Build a Database
+Objective: Design a database to store relevant employee information.
+
+Step 1: Identify Data Requirements
+Before building the database, determine the necessary data fields based on the stakeholders’ needs.
+
+Step 2: Design the Database Schema
+Create tables for storing data.
+
+Step 3: Create Relationships
+Define the relationships between the tables.
+
+Step 4: Set Up the Database
+Using Microsoft SQL Server Management Studio.
+
+
+2. Develop SQL Queries
+Objective: Write SQL queries to retrieve and manipulate data from the database.
+
+3. Perform Analysis
+Objective: Analyze the data to provide meaningful insights.
+
+
+4. Connect Database to Power BI
+Objective: Visualize the data and analysis results in Power BI for stakeholders.
+
+5. Build a Dashboard
+Objective: Create an interactive HR dashboard to monitor absenteeism.
+
+Step 1: Understand the HR Wireframe.
+Step 2: Design the Dashboard in Power BI
+
+Step 4: Publish the Dashboard
